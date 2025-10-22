@@ -1,6 +1,6 @@
 # 📖 Library Room Booking System
 
-A full-stack web application that allows students and staff to reserve library study rooms online.  
+A web application that allows students and staff to reserve library study rooms online.  
 Developed using **HTML**, **CSS**, **JavaScript**, **Node.js (Express)**, and **MySQL**, this system provides an efficient and easy-to-use interface for managing room availability, reservations, and user accounts.
 
 ---
