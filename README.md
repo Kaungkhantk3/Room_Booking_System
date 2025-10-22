@@ -38,5 +38,4 @@ Developed using **HTML**, **CSS**, **JavaScript**, **Node.js (Express)**, and **
 
 ---
 
-## 📂 Project Structure
 
